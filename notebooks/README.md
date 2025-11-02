@@ -1,6 +1,7 @@
-This is our notebooks folder. It will include the following notebooks:
+This is our notebooks folder. It will include (approximately) the following notebooks:
 
-- [ ] 00_eda
-- [ ] 01_preprocessing
-- [ ] 02_visualizations
-- [ ] 03_model_testing
+- [ ] 00-data-acquisition
+- [ ] 01-eda
+- [ ] 02-preprocessing
+- [ ] 03-visualizations
+- [ ] 04-model-testing
