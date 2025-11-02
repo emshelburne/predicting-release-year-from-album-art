@@ -1,0 +1,32 @@
+# Ignore datasets and large media
+data/
+*.csv
+*.tsv
+*.zip
+*.tar
+*.gz
+*.h5
+*.pt
+*.pkl
+*.npy
+*.npz
+
+# Ignore checkpoints and .html files
+*.ipynb_checkpoints/
+*.html
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# Ignore IDE and OS-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
